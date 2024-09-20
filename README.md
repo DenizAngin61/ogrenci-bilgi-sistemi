@@ -1,1 +1,10 @@
 # ogrenci-bilgi-sistemi
+![Ekran görüntüsü 2024-09-20 134128](https://github.com/user-attachments/assets/d0e0d876-5e93-41c3-973b-f7ab71632798)
+![Ekran görüntüsü 2024-09-20 134157](https://github.com/user-attachments/assets/e018b2d5-9a70-4aae-b565-f648b3851c89)
+![Ekran görüntüsü 2024-09-20 134221](https://github.com/user-attachments/assets/fc5b55cc-354e-4186-adc4-94ef6b3165e8)
+![Ekran görüntüsü 2024-09-20 134250](https://github.com/user-attachments/assets/d3211f24-804c-44bb-a1f3-933882939fd6)
+![Ekran görüntüsü 2024-09-20 134307](https://github.com/user-attachments/assets/9248743b-f3a5-4aa3-a2c0-9de4e4070d6b)
+![Ekran görüntüsü 2024-09-20 134322](https://github.com/user-attachments/assets/7826511d-9301-4c7d-92c0-827545a7fead)
+![Ekran görüntüsü 2024-09-20 134344](https://github.com/user-attachments/assets/9f6ca5ff-d139-47cc-8350-df4174e67bde)
+![Ekran görüntüsü 2024-09-20 134403](https://github.com/user-attachments/assets/7c4bca82-0fc0-4c1d-8990-6f0b5a5bc3ef)
+![Ekran görüntüsü 2024-09-20 134430](https://github.com/user-attachments/assets/072c1380-d53d-42db-bf76-4d3cd61c3ba9)
